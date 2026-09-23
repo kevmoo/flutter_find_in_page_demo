@@ -523,7 +523,7 @@ class _FindInPageDemoAppState extends State<FindInPageDemoApp> {
                                 ),
                               ),
                               _PresetChip(
-                                label: '"needle" (all 12 matches)',
+                                label: '"needle" (all 26 matches)',
                                 onTap: () => _runPresetQuery('needle'),
                               ),
                               _PresetChip(
